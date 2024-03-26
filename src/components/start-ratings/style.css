@@ -1,0 +1,18 @@
+.start-rating {
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px dotted black;
+}
+.h1 {
+  margin-right: 10px;
+}
+
+.active {
+  color: #fff700;
+}
+
+.inactive {
+  color: white;
+}
